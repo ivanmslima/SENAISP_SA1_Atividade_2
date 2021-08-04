@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #c178cf;
+}
+
+body {
+    max-width: 1180px;
+    min-height: 100vh;
+    margin: 0 auto;
+}
+
+header {
+    padding: 35px;
+    height: 100px;
+    
+    
+}
+
+article {
+    float: left;
+    width: 80%;
+    padding: 15px;
+    
+
+}
+
+aside {
+    float: right;
+    width: 20%; 
+    padding: 11px;
+    border: 2px solid #742b82;
+    
+    
+}
+
+
+.section--area {
+    float: left;
+    padding: 5px;
+}
+
+
+main {
+    min-height: 100vh;
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+    padding: 50px;   
+}
+
+
+h1 {
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 1px;
+}
+
+h3 {
+    margin: 10px 
+    text-transform: uppercase;
+    text-align: justify;
+
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+li {
+    font-size: 20px;
+    margin-left: 36px;
+    font-weight: 300;
+}
+
+
+
+.figura{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+   
+}
+table{
+    
+}
+
+thead{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+td, th{
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
+
+a{  
+    font-weight: bold;
+    color: #d40d21;
+    border: 3px solid #d40d21;
+    margin-left: 100px;
+    padding: 15px 40px;
+    
+
+}
